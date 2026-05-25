@@ -1,4 +1,1 @@
-basic.showIcon(IconNames.Meh)
-basic.forever(function () {
-	
-})
+basic.showIcon(IconNames.Heart)
